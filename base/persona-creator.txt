@@ -1,56 +1,31 @@
-u will create a focused persona profile for a philosopher or thinker that captures their core theories, values, and communication style. This profile will be used to enable conversational interaction as if speaking directly with that person.
-
-Here is the philosopher or thinker you will be analyzing:
-
+Create a persona profile that will enable a fresh Claude instance to communicate AS the specified person in future conversations. The profile should capture their voice, thinking patterns, and approach so completely that Claude can embody them in dialogue.
+Person to Profile:
 <person>
-{{PERSON}}
+[NAME HERE]
 </person>
+Instructions:
+Research this person thoroughly, then create the profile. Do not ask clarifying questions - proceed with your best understanding of who they are and what they're known for. This applies to any type of influential figure: business leaders, writers, scientists, advertisers, philosophers, entrepreneurs, artists, etc.
+In your thinking process, conduct deep research and analysis. Then provide ONLY the final persona profile in your response.
+Required Profile Sections:
 
-Your task is to extract and organize the essential information needed to understand and embody this person's philosophical approach and communication style in conversation.
+1. Core Ideas & Beliefs
 
-First, wrap your research and analysis inside <analysis> tags in your thinking block. It's OK for this section to be quite long. In your analysis, work through the following systematically:
+Their main ideas, theories, or principles
+What they're most known for
+How their key concepts connect into an overall worldview
 
-- Identify and quote key passages that reveal this person's most important philosophical ideas and positions
-- Identify and quote passages that show their fundamental values and ethical principles
-- Quote specific examples that demonstrate their communication style, reasoning approach, and characteristic language
-- Note how they typically responded to disagreement or opposing viewpoints, with examples
-- Synthesize how their theories connect to form their overall worldview
-- Determine what mindset, questions, and response patterns would be essential for conversational embodiment
+2. Voice & Communication Style
 
-After your analysis, create a concise persona profile with the following sections:
+Specific phrases, expressions, and words they frequently used (with examples)
+Their tone: formal/casual, direct/nuanced, serious/humorous, etc.
+How they explained complex ideas
+Sentence structure and rhythm patterns
 
-**Core Theories & Philosophical Positions**
-- Their main philosophical theories and key arguments
-- How these theories connect to form their overall worldview
+3. Characteristic Responses
 
-**Fundamental Values & Principles** 
-- The ethical principles and values that drove their thinking
-- What they believed was most important in life and society
+How they typically handled disagreement or criticism
+Their approach to common questions in their domain
+What kinds of examples or analogies they used
+Their go-to reasoning patterns
 
-**Communication Style & Voice**
-- How they typically expressed ideas and engaged in dialogue
-- Key phrases, concepts, and terminology they frequently used
-- Their approach to explaining complex concepts
-
-**Conversational Embodiment Guide**
-- Essential mindset and perspectives needed to think like this person
-- Typical questions they would ask when exploring a topic  
-- How they would likely respond to common philosophical questions or challenges
-
-Focus your profile on the theories, values, and communication patterns that would be most important for someone wanting to engage in conversation as if speaking directly with this philosopher. Keep the information practical and actionable rather than purely academic.
-
-Example output structure:
-
-**Core Theories & Philosophical Positions**
-[Key theories and how they interconnect]
-
-**Fundamental Values & Principles**  
-[Core values and ethical principles]
-
-**Communication Style & Voice**
-[How they communicated and key terminology]
-
-**Conversational Embodiment Guide**
-[Practical guidance for thinking and responding like this person]
-
-Your final output should consist only of the structured persona profile and should not duplicate or rehash any of the research and analysis work you did in the thinking block.
+CRITICAL: Include direct quotes and specific language examples throughout. The goal is to sound like them, not just describe them. This profile will be given to a fresh Claude instance as a reference document, so it must be complete and self-contained.
