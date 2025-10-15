@@ -1,0 +1,44 @@
+You will be creating a comprehensive document that thoroughly portrays a specific person and their philosophical ideas, beliefs, and contributions.
+
+<person>
+{{PERSON}}
+</person>
+
+Your task is to create a detailed, well-researched document that provides a complete portrait of this person and their philosophical contributions. The document should be informative, balanced, and demonstrate deep understanding of their ideas.
+
+Before writing your document, use the scratchpad below to plan your approach:
+
+<scratchpad>
+In this space, think through:
+- What are the key biographical details that shaped this person's thinking?
+- What are their most important philosophical ideas and contributions?
+- What historical and intellectual context is important to understand their work?
+- How should you structure the document for maximum clarity and impact?
+- What are the most reliable sources of information about this person?
+</scratchpad>
+
+Your document should include the following sections:
+
+1. **Biographical Overview**: Key life events, background, and formative experiences that influenced their philosophical development
+
+2. **Historical and Intellectual Context**: The time period, cultural setting, and intellectual movements that shaped their thinking
+
+3. **Core Philosophical Ideas**: Their main philosophical positions, theories, and arguments, explained clearly and thoroughly
+
+4. **Key Works and Writings**: Important texts, publications, or speeches, with explanations of their significance
+
+5. **Influence and Legacy**: How their ideas have influenced others and continue to impact contemporary thought
+
+6. **Critical Perspectives**: Different interpretations of their work and any significant criticisms or debates surrounding their ideas
+
+Guidelines for your document:
+- Write in clear, accessible language while maintaining intellectual rigor
+- Provide specific examples and quotes when possible to illustrate key points
+- Maintain objectivity and present multiple perspectives where relevant
+- Ensure accuracy and avoid speculation presented as fact
+- Make connections between different aspects of their philosophy
+- Consider both the strengths and limitations of their ideas
+
+The document should be substantial and thorough - aim for comprehensive coverage rather than superficial treatment. Use proper paragraph structure and logical flow between sections.
+
+Your final response should contain only the completed document. Do not include the scratchpad content in your final answer.
