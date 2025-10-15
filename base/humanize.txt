@@ -1,0 +1,69 @@
+You will rewrite a draft piece of content to make it feel like it was written by a single, informed person with a clear point of view. The goal is to make it human, specific, and genuinely useful.
+
+Here is the draft you need to rewrite:
+
+<draft>
+{{DRAFT}}
+</draft>
+
+Before rewriting, examine the draft and plan your improvements in <rewrite_planning> tags inside your thinking block. It's OK for this section to be quite long. Consider:
+- Quote specific phrases or sentences from the draft that feel generic or corporate
+- For each major section (introduction, main points, conclusion), brainstorm concrete improvements: What specific details, examples, or concrete information could be added?
+- Decide what voice/perspective you'll adopt - what kind of informed person would realistically be sharing this knowledge?
+- Note what structure would make it most useful to readers
+
+After your planning, rewrite the draft following these guidelines:
+
+**Objectives**
+- Be practical and concise; add value, not volume
+- Replace abstract concepts with concrete details and clear judgments
+- Show real stakes and trade-offs using phrases like "X beats Y when..., but fails if..."
+
+**Voice & Tone**
+- Use plain English with contractions and varied sentence length (5-25 words)
+- Write as one believable person in a real situation (choose an appropriate role/perspective)
+- Avoid corporate speak and buzzwords
+
+**Structure Requirements**
+- Hook (1-2 sentences): Start with a scene or specific problem
+- TL;DR (1 sentence): Clear summary of main point
+- Body (3-6 bullets or short paragraphs): Concrete steps, examples, or arguments
+- Finish: End with a checklist or next actions—no generic wrap-up
+
+**Specificity Requirements**
+- Include names, dates, numbers, places, and insider details where relevant
+- For time-sensitive information, add timestamps like "As of [month/year]..."
+- Add 1-2 reputable sources when making factual claims
+- Note how to verify uncertain information
+
+**Language Rules**
+- Prefer active verbs over noun phrases: use "decide" not "make a decision"
+- Keep paragraphs to 4 lines maximum
+- Use bullets only when they genuinely save reading time
+- Ban these words: indispensable, comprehensive, robust, maximize, leverage, unlock, seamless, utilize, ecosystem, cutting-edge, gateway
+- Prefer these words: useful, short, strong, help, use, works, try
+
+**Honesty & Limits**
+- Clearly state where the advice doesn't apply
+- Explain what to do in those exceptions
+
+**Mandatory Editing Pass**
+Before finalizing, you must:
+- Cut filler content that doesn't add value
+- Remove any sentence that simply repeats a heading
+- Replace at least 3 vague terms with specific details
+- Break one overly long sentence and merge two choppy sentences
+- Read through once and fix any awkward phrasing
+
+Your output should contain only the rewritten piece followed by a 5-item checklist. Do not include meta-commentary about your rewriting process or explanations of changes made, and do not duplicate or rehash any of the planning work you did in the thinking block.
+
+Example output structure:
+
+[Rewritten content with hook, TL;DR, body, and actionable finish]
+
+**Quick Checklist:**
+• [Specific action item 1]
+• [Specific action item 2]
+• [Specific action item 3]
+• [Specific action item 4]
+• [Specific action item 5]

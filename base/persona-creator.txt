@@ -1,44 +1,62 @@
-You will be creating a comprehensive document that thoroughly portrays a specific person and their philosophical ideas, beliefs, and contributions.
+You are tasked with creating a comprehensive persona profile for a specific philosopher or thinker that can be used as a practical reference for understanding and embodying their approach to thinking, communication, and problem-solving.
+
+Here is the person you will be analyzing:
 
 <person>
 {{PERSON}}
 </person>
 
-Your task is to create a detailed, well-researched document that provides a complete portrait of this person and their philosophical contributions. The document should be informative, balanced, and demonstrate deep understanding of their ideas.
+Your goal is to create a detailed persona profile that goes beyond academic description to provide actionable insights that would allow someone to understand and embody this person's intellectual approach, communication style, and philosophical methodology.
 
-Before writing your document, use the scratchpad below to plan your approach:
+Before creating the persona profile, thoroughly research and analyze this person in <analysis> tags inside your thinking block. It's OK for this section to be quite long. In your analysis:
 
-<scratchpad>
-In this space, think through:
-- What are the key biographical details that shaped this person's thinking?
-- What are their most important philosophical ideas and contributions?
-- What historical and intellectual context is important to understand their work?
-- How should you structure the document for maximum clarity and impact?
-- What are the most reliable sources of information about this person?
-</scratchpad>
+- Write down key biographical facts, formative experiences, and influences that shaped their intellectual development
+- List their major works and extract the core philosophical positions from each
+- Examine specific examples of their writing or speaking style - quote particular passages that illustrate how they communicate ideas
+- Analyze how they approach different types of problems (logical, ethical, practical, etc.) and what methods they consistently use
+- Note how they handle disagreement, criticism, or opposing viewpoints with specific examples
+- Identify what makes their perspective unique compared to their contemporaries or predecessors
+- Synthesize actionable insights about what someone would need to understand to think or communicate like this person
 
-Your document should include the following sections:
+After your analysis, create a comprehensive persona profile with the following sections:
 
-1. **Biographical Overview**: Key life events, background, and formative experiences that influenced their philosophical development
+**1. Core Identity & Background**
+- Essential biographical details that shaped their worldview
+- Formative experiences and influences
 
-2. **Historical and Intellectual Context**: The time period, cultural setting, and intellectual movements that shaped their thinking
+**2. Fundamental Beliefs & Philosophical Positions**
+- Their key philosophical stances and principles
+- How these beliefs interconnect and form their overall worldview
 
-3. **Core Philosophical Ideas**: Their main philosophical positions, theories, and arguments, explained clearly and thoroughly
+**3. Thinking & Problem-Solving Approach**
+- How they approach complex questions or problems
+- Their methodology for reasoning through difficult issues
+- Typical thought processes and analytical frameworks they use
 
-4. **Key Works and Writings**: Important texts, publications, or speeches, with explanations of their significance
+**4. Communication Style & Voice**
+- How they express their ideas (formal/informal, direct/indirect, etc.)
+- Typical phrases, concepts, or terminology they use
+- Their approach to explaining complex ideas
 
-5. **Influence and Legacy**: How their ideas have influenced others and continue to impact contemporary thought
+**5. Interaction Style**
+- How they engage with others in intellectual discourse
+- Their approach to disagreement or criticism
+- How they build upon or respond to other ideas
 
-6. **Critical Perspectives**: Different interpretations of their work and any significant criticisms or debates surrounding their ideas
+**6. Key Works & Signature Ideas**
+- Most important contributions with practical explanations
+- Signature concepts or frameworks they're known for
 
-Guidelines for your document:
-- Write in clear, accessible language while maintaining intellectual rigor
-- Provide specific examples and quotes when possible to illustrate key points
-- Maintain objectivity and present multiple perspectives where relevant
-- Ensure accuracy and avoid speculation presented as fact
-- Make connections between different aspects of their philosophy
-- Consider both the strengths and limitations of their ideas
+**7. Practical Embodiment Guide**
+- Specific guidance for someone wanting to think or communicate like this person
+- Key questions they would ask when approaching a new topic
+- Typical responses or approaches they would take in various scenarios
 
-The document should be substantial and thorough - aim for comprehensive coverage rather than superficial treatment. Use proper paragraph structure and logical flow between sections.
+Make sure your persona profile is:
+- Accurate and well-researched
+- Practical and actionable for someone wanting to understand or embody this person's approach
+- Detailed enough to capture their unique intellectual style
+- Written in clear, accessible language
+- Focused on what makes this person's approach distinctive and valuable
 
-Your final response should contain only the completed document. Do not include the scratchpad content in your final answer.
+Your final output should consist only of the comprehensive persona profile and should not duplicate or rehash any of the research and analysis work you did in the thinking block.
