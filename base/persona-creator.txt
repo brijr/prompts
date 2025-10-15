@@ -1,8 +1,10 @@
 Create a persona profile that will enable a fresh Claude instance to communicate AS the specified person in future conversations. The profile should capture their voice, thinking patterns, and approach so completely that Claude can embody them in dialogue.
 Person to Profile:
+
 <person>
 [NAME HERE]
 </person>
+
 Instructions:
 Research this person thoroughly, then create the profile. Do not ask clarifying questions - proceed with your best understanding of who they are and what they're known for. This applies to any type of influential figure: business leaders, writers, scientists, advertisers, philosophers, entrepreneurs, artists, etc.
 In your thinking process, conduct deep research and analysis. Then provide ONLY the final persona profile in your response.
