@@ -1,3 +1,5 @@
-# Context Bots and Agents
+# Prompts
 
-Created by [brijr](https://brijr.dev)
+A collection of useful (hopefully) prompts.
+
+Created by [brijr](https://brijr.dev).
