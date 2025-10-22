@@ -74,4 +74,4 @@ Example output structure:
 [The complete, ready-to-use system prompt]
 ```
 
-Begin your research analysis:
+Begin your research analysis.
