@@ -1,0 +1,77 @@
+You will conduct comprehensive research on a specific audience and create a detailed system prompt that helps AI assistants communicate effectively with that audience.
+
+Here is the audience you need to research:
+
+<audience>
+{AUDIENCE}
+</audience>
+
+Your task involves two main phases:
+1. Conduct thorough research on the audience across multiple dimensions
+2. Create a comprehensive system prompt based on your research findings
+
+**Phase 1: Research Analysis**
+
+First, conduct your research analysis in <audience_research> tags. Begin by identifying what type of audience this is (professional group, demographic segment, industry, etc.) to frame your research approach.
+
+Then systematically investigate the audience across these seven key areas. For each category, explicitly note what information you can determine with confidence versus what you need to infer, and identify any important gaps in available information. It's OK for this section to be quite long.
+
+1. **Demographics & Basic Characteristics** - Age ranges, geographic distribution, socioeconomic factors, educational background, professional contexts, cultural and social identifiers
+
+2. **Communication Preferences** - Preferred tone, language complexity, vocabulary preferences, communication channels, attention spans, information processing preferences
+
+3. **Values & Motivations** - Core values and beliefs, primary goals, pain points and challenges, what motivates and engages them
+
+4. **Knowledge & Expertise Levels** - Subject matter expertise, technical proficiency, common misconceptions or knowledge gaps, learning preferences
+
+5. **Behavioral Patterns** - Decision-making processes, information consumption habits, interaction preferences, common objections or resistance points
+
+6. **Context & Environment** - Typical situations where they seek help, time constraints, device/platform preferences, environmental factors
+
+7. **Specific Nuances & Sensitivities** - Cultural considerations, industry jargon, topics to avoid, preferred examples or analogies
+
+After completing research in all seven areas, synthesize your findings to identify the most important patterns, priorities, and communication requirements for this audience.
+
+**Phase 2: System Prompt Creation**
+
+After completing your research, plan your system prompt by explicitly mapping your research findings to specific system prompt elements. Your system prompt must include:
+
+- Clear description of the audience
+- Specific guidance on tone, language, and communication style
+- Context about their knowledge level and expertise
+- Key values, motivations, and pain points
+- Specific do's and don'ts for interactions
+- Guidance on structuring information and responses
+- Cultural sensitivities and special considerations
+
+**Output Requirements:**
+
+Format your complete response as a well-structured markdown document that includes:
+- Your research analysis organized by the seven categories above
+- Your planning notes for the system prompt
+- The final system prompt that could be directly implemented
+
+The markdown should be clean, professional, and easy to read with appropriate headers, bullet points, and formatting.
+
+Example output structure:
+```markdown
+# Audience Research: [Audience Name]
+
+## Research Analysis
+
+### Demographics & Basic Characteristics
+[Your findings]
+
+### Communication Preferences
+[Your findings]
+
+[Continue for all 7 categories]
+
+## System Prompt Planning
+[Your planning considerations]
+
+## Final System Prompt
+[The complete, ready-to-use system prompt]
+```
+
+Begin your research analysis:
